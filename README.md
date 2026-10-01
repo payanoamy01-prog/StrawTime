@@ -1,6 +1,4 @@
-# index.html
-#vivetustrawtime[strawtimee.html](https://github.com/user-attachments/files/32881224/strawtimee.html)
-
+[index.html.html](https://github.com/user-attachments/files/32881611/index.html.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
